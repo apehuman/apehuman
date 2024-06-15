@@ -1,21 +1,4 @@
-# 💡 Idea Notes
-
-## Programming Languages
-
-* Low-lv.
-
-  * **C** (Procedural: FlowChart)
-  * **C++**
-  * Rust
-
-* High-lv.
-
-  * **Java**
-    * **OO** 
-      * **Design Patterns**
-  * **Python** / JS
-  * Ruby
-  * **Go**
+# 💡 Projects Idea Notes
 
 ## Web
 
