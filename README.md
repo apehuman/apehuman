@@ -14,7 +14,6 @@
 ### Back
 
 * Theory
-  
   * **Network**
     * OSI (layers & protocols)
     * HTTP + REST API
@@ -23,6 +22,10 @@
   * **OS**
       * **Linux**
   * **DB** & SQL
+
+1. CMS
+2. Blog/SNS
+3. E-commerce
 
 ## PM
 
@@ -50,7 +53,7 @@
 * Projects
   1. **Game** (Data Structures & Algorithms)
   2. **Data Science**
-     * ML: Numpy & Pandas
+     * ML: Numpy & [Pandas](https://pandas.pydata.org/docs/index.html)
      * DL: Keras, PyTorch
      * LLMs
          * OpenAI/MS - Gemini(Google) - Llama(Meta)
