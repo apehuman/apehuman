@@ -93,7 +93,7 @@
   2. **Langchain**
   3. **Prompt Engineering**
   4. **AI-paired/assisted programming** (Copliot)
-  5. **RAG** (Retrieval-Augmented Generation) (Search)
+  5. **RAG/Fine-tuning** (Retrieval-Augmented Generation) (Search)
   6. **sLM** (On-device/Offline)
   7. Cloud (**LLMOps**)
       * [MS Azure](https://learn.microsoft.com/en-us/azure/ai-services/)
@@ -127,7 +127,7 @@
        * Reviews
        * Chatting
        * News
-     * 
+ 
   ---
   
   * Text
@@ -152,4 +152,3 @@
   * Video
   * **Multi-Modal** (NLP + CV: Text/Audio + Image)
     * Autonomous Vehicle
-    * 
